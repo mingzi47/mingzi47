@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingzi47)](https://github.com/Christmas/github-readme-stats) 
 -->
 
-:Computer: C++ | Rust | Python
+#### :computer: C++ | Rust | Python
